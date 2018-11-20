@@ -1,7 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* 
+ * Copyright 2018, VTS Space, http://vtsspace.com.
+ * 
+ * This software is released under the terms of the
+ * GNU LGPL license. See http://www.gnu.org/licenses/lgpl.html
+ * for more information.
+ * 
  */
 package com.vts.designpattern.singleton;
 
@@ -11,9 +14,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Call Singleton class with Single/ Multi.
+ * Call Singleton class with Single/ Multi. Use single thread for Singleton and
+ * Multiple Thread for Multithread Singleton.
  *
- * @author Neit Ng
+ * @author Neit Ng (Enit Ng: http://nguyenvantien2009.com)
  */
 public class Main {
 
