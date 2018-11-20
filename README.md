@@ -6,3 +6,7 @@ I am working in VTS Space (http://vtsspace.com) and write blog http://nguyenvant
 You can try read more websites:
 - Source Marking: https://sourcemaking.com/design_patterns
 - Refactoring Guru: https://refactoring.guru/design-patterns
+
+# Creational Pattern
+## Singleton
+Singleton is a pupular pattern. It was used as global object. Only one instance of class is created in the Environment (Java Project).
